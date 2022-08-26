@@ -1,0 +1,3 @@
+Especificação de Alvo
+
+-O caso mais simples é espeficar um endereço IP como alvo ou um hostname para ser escaneado.

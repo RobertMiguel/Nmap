@@ -1,0 +1,5 @@
+O que é CIDR ?
+É uma sigla Classes Inter Routing, e ele é considerado um método para repartir os endereços IP e para rotear.
+Sua principal função era de desacelerar o crescimento de tabelas que continham os roteamentos dos roteadores
+na rede. Dessa forma, foi possível auxiliar o desacelerar a rapidez com que os endereços IPv4 estava alcançando.
+
